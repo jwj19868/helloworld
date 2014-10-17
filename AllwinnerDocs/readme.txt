@@ -1,0 +1,1 @@
+this is a folder of Allwinner SOC
